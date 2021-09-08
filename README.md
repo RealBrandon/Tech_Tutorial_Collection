@@ -44,7 +44,7 @@
 
 4. ## Visit the LuCI page
 
-   Visit LuCI (the web GUI for OpenWrt management) to make further configurations.
+   Type the LAN address into the address bar of your browser to visit LuCI (the web GUI for OpenWrt management) to make further configurations.
 
 5. ## Reconnect the WAN interface, if PPPoE is used
 
