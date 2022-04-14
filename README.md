@@ -6,5 +6,5 @@ Write README.md
 Reupload of OpenWrt network config tutorial  
 
 ## 14 Apr 2022
-Upload webmin_installer.sh I wrote yesterday
-Upload vscode_edge_installer_fedora.sh which I wrote a long time ago
+Upload webmin_installer.sh I wrote yesterday  
+Upload vscode_edge_installer_fedora.sh which I wrote a long time ago  
